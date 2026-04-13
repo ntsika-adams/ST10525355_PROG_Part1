@@ -19,7 +19,7 @@ the login test class is where the login details are check and made sure that onl
 it checks if the username meets the certain requirments
 ### Password Validation
 it checks if the password meets the certain requirments
-### Cellphone Validation
+### Cellphone Number Validation
 it checks if the cellphone meets the certain requirments
 
 ---
