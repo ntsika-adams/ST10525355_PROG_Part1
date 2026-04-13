@@ -2,9 +2,9 @@
 
 
 ##Student Information
-Name:Ntsika 
-Student Number :ST10525355
-Module:PROG512
+-Name:Ntsika 
+-Student Number :ST10525355
+-Module:PROG512
 ---
 
 ##Project Information
