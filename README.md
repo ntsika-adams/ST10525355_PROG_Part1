@@ -1,13 +1,13 @@
 # CHAT APPLICATION PART-1
 
 
-##Student Information
+## Student Information
 -Name:Ntsika 
 -Student Number :ST10525355
 -Module:PROG512
 ---
 
-##Project Information
+## Project Information
 The project consist of the three classes(Main.java,login.java and logintest.java)
 the main class contains the body of the app where the registration section is
 the login class is where the validation of the Users phonenumber,password and his/her username.It is also where the usewr is registered
