@@ -18,7 +18,7 @@ the login test class is where the login details are check and made sure that onl
 ### Username Validation
 it checks if the username meets the certain requirments
 ### Password Validation
-it checks if the pssword meets the certain requirments
+it checks if the password meets the certain requirments
 ### Cellphone Validation
 it checks if the cellphone meets the certain requirments
 
